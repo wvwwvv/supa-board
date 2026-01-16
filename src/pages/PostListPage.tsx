@@ -18,7 +18,7 @@ export default function PostListPage() {
 
     return (
         <div>
-            <h1>게시판</h1>
+            <h1>게시판판</h1>
             <ul>
                 {posts?.map((post) => (
                     <li key={post.id}>
